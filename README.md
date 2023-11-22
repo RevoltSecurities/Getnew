@@ -8,14 +8,6 @@ Getnew a python based tool find unique and new lines and words or even for subdo
 
 # Installation:
 
-## Method 1:
-```bash
-pip install getnew
-getnew -h
-```
-
-## Method 2:
-
 ```bash
 git clone https://github.com/sanjai-AK47/Getnew.git
 pip install .
